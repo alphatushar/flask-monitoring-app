@@ -31,5 +31,13 @@ cd flask-monitoring-app
 
 ---
 
+### Services
+- Flask Web App with /metrics endpoint
+- Prometheus → Collects metrics
+- Grafana → Visualizes metrics
+- Multi-container stack with Docker Compose
+
+---
+
 ### Author
 Tushar Sharma
