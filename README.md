@@ -28,3 +28,8 @@ cd flask-monitoring-app
 ![screenshot](example/flask_app.png)
 ![screenshot](example/grafana_dashboard.png)
 ![screenshot](example/prometheus_metric.png)
+
+---
+
+### Author
+Tushar Sharma
